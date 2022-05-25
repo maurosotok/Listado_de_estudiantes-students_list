@@ -1,0 +1,7 @@
+Tipos de indices
+Primary Key = Clave principal de una tabla, es un valor unico que no puede repetirse y es autonumerico
+
+Unique Key = Clave unica, no se repite y no es autonumerico
+
+Key = Clave comun, admite duplicados
+
